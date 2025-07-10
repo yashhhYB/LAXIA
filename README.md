@@ -50,14 +50,7 @@ Legal knowledge should not be locked away in jargon. LAXIA was built to bring th
 
 ---
 
-## 🖼 Screenshots
 
-> Add screenshots here from your `/assets/screenshots/` folder  
-> Example:
-> - Home Page  
-> - ChatBot Screen  
-> - Learn Section  
-> - Law Quiz Interface
 
 ---
 
